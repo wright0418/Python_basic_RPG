@@ -19,7 +19,7 @@
 
 ## 章節目錄
 
-### [前言：RPG風格學習法](ch0.md)
+### [前言：RPG風格學習法](https://github.com/wright0418/Python_basic_RPG/blob/main/ch0.md)
 - 為什麼選擇RPG主題
 - 學習方法說明
 - 課程規劃概述
